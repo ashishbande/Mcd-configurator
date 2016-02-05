@@ -2,6 +2,6 @@
  <manifest>
      <remote name="github" fetch=".."/>
      <default revision="refs/heads/master" remote="github" sync-j="4"/>
-     <project name="test-a" remote="github" path="a">
-     <project name="test-b" remote="github" path="b"/>
+     <project name="mcd_main" remote="github" path="a">
+     <project name="mcd-feature1" remote="github" path="b"/>
  </manifest>
