@@ -3,5 +3,5 @@
      <remote name="github" fetch="https://github.com/ashishbande/"/>
      <default revision="refs/heads/master" remote="github" sync-j="4"/>
      <project name="mcd_main" remote="github" />
-     <project name="mcd-feature1" remote="github" />
+     <project name="mcd-feature1" remote="github" revision="refs/heads/scenario_test1" />
  </manifest>
